@@ -1,8 +1,8 @@
 /***********BASE STYLES***********/
 body{
     font-family: 'Montserrat', sans-serif;
-    font-size: 16pt;
-    line-height: 25pt;
+    font-size: 16px;
+    line-height: 25px;
     width: 1200px;
     padding-left:20px;
 }
@@ -28,23 +28,23 @@ h1, h2, h3, h4{
 
 
 h1{
-  font-size: 30pt;
+  font-size: 30px;
   margin: 0;
   display:inline;
 }
 
 h2{
-  font-size: 18pt;
+  font-size: 18px;
   color: #77a466;
 }
 
 h3{
-  font-size: 16pt;
+  font-size: 16px;
   color: #000000;
 }
 
 h4{
-  font-size: 12pt;
+  font-size: 12px;
   color: #000000;
 }
 
@@ -63,12 +63,12 @@ header h1 {
 nav{
   float: right;
   list-style: none;
-  padding: 20px 0;
+  padding-top: 25px;
 }
 
 header li{
   display: inline;
-  font-size: 14pt;
+  font-size: 14px;
   font-weight: bold;
   padding-left:25px;
 }
@@ -99,17 +99,17 @@ a{
   list-style: none;
   color: #77a466;
   padding: 10px 0;
-  line-height: 50px;
+  line-height: 40px;
 }
 
 .reviews p{
-  font-size: 16pt;
-  line-height: 21pt;
+  font-size: 16px;
+  line-height: 21px;
   padding: 0 30px;
 }
 
 .contact p{
-  line-height: 24pt;
+  line-height: 24px;
   padding: 0 30px;
 }
 
@@ -133,7 +133,7 @@ footer{
 
 footer span{
   font-family: 'Galada', cursive;
-  font-size: 16pt;
+  font-size: 16px;
   color: #77a466;
   text-transform: lowercase;
 }
